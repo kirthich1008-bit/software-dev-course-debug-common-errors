@@ -26,7 +26,7 @@ Think about which debugging methods you found most useful and how you might appl
 
 console.log("Welcome to the bootcamp");
 
-// What’s Wrong? 3 logical errors ' ", ), ; '
+// What’s Wrong? 3 syntax errors ' ", ), ; '
 
 
 
